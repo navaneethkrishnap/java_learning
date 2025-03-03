@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class rectangle_area {
+public class o3_rectangle_area {
     public static void main(String[] args){
 
 //        calculate the area of a rectangle
