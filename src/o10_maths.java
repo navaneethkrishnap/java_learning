@@ -38,10 +38,6 @@ public class o10_maths {
         double b;
         double c;
 
-        double m;
-        double n;
-        double o;
-        double p;
 
         System.out.print("Please enter A side length :");
         a = scanner.nextInt();
