@@ -1,4 +1,4 @@
-public class o24_nestedLoops {
+public class o29_nestedLoops {
     public static void main(String[] args){
         // simple matrix
 //        for (int i = 1; i <= 5; i++){

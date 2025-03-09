@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class o25_matrix {
+public class o28_matrix {
     public static void main(String[] args){
 
         Scanner scanner = new Scanner(System.in);
