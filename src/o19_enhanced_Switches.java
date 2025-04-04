@@ -11,7 +11,7 @@ public class o19_enhanced_Switches {
 
         switch(day){
 
-            case "Monday", "Tuesday", "Wednesday" ,"Thursday","Friday"  -> System.out.println("It is a weekday");
+            case "Tuesday", "Monday", "Wednesday" ,"Thursday","Friday"  -> System.out.println("It is a weekday");
             case "Saturday","Sunday" -> System.out.println("Is is a weekend");
             default -> System.out.println(day+ " is not a day");
         }
