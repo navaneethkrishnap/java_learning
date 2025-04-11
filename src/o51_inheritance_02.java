@@ -6,7 +6,7 @@ class Rectangle{
         height = ob.height;
         depth = ob.depth;
     }
-    Rectangle(){
+    Rectangle(double w, double h, double d){
         width = height = depth = -1;
     }
 
@@ -24,9 +24,10 @@ class RecWeight extends Rectangle {
     double weight;
 
     RecWeight(double w, double h, double d, double m){
+        super(w, h, d);
         width = w;
         height = h;
-        depth = h;
+        depth = d;
         weight = m;
     }
 }
